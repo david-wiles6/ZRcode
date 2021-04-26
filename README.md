@@ -11,3 +11,11 @@ Hi guys, I'm David, I did ZR for 3 years and I really enjoyed it. I made this be
 ## Vectors
 
 [Vectors](https://github.com/david-wiles6/ZRcode/tree/main/Vector%20Examples) All vectors, what you need to succeed in ZR and the wacky syntax that C uses for their vector functions
+
+## More Complex Basics
+
+Switch Cases, and some random other weird logic stuff that can be important at times
+
+## Putting it all together
+
+I've also included some more complex code that I wrote in past ZR seasons. Take a look at it and try to understand it, then go try your hand at your own code. Start in free mode and get the sphere to do some complex pattern, like a square, then find an interesting game, I like SpySpheres, look through their game manual, and make some code to score a couple points, then some more, then see if you can optimize it even more.
