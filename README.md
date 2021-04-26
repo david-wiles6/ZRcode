@@ -10,4 +10,4 @@ Hi guys, I'm David, I did ZR for 3 years and I really enjoyed it. I made this be
 
 ## Vectors
 
-[https://github.com/david-wiles6/ZRcode/tree/main/Vector%20Examples] Just the basics, what you need to succeed in ZR and the wacky syntax that C uses for their vector functions
+[Vectors](https://github.com/david-wiles6/ZRcode/tree/main/Vector%20Examples) All vectors, what you need to succeed in ZR and the wacky syntax that C uses for their vector functions
