@@ -6,7 +6,7 @@ Hi guys, I'm David, I did ZR for 3 years and I really enjoyed it. I made this be
 
 ## Basics
 
-[https://github.com/david-wiles6/ZRcode/tree/main/Basics](Basics) Heres the link to basics, try out some of the examples. This is going to get you used to seeing "c" code, c is the coding language that we use here at ZR, as well as coding a bit yourself.
+[Basics](https://github.com/david-wiles6/ZRcode/tree/main/Basics) Heres the link to basics, try out some of the examples. This is going to get you used to seeing "c" code, c is the coding language that we use here at ZR, as well as coding a bit yourself.
 
 ## Vectors
 
