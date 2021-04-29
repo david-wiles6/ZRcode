@@ -23,5 +23,6 @@ void loop(){
   //store your information in myState, which will also 
   api.getMyZRState(myState);
   
+  //this will print your position to the debug menu
   DEBUG(("%f, %f, %f", myPosition[0], myPosition[1], myPosition[2]));
 }
