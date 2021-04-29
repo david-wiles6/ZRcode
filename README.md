@@ -15,6 +15,7 @@ Hi guys, I'm David, I did ZR for 3 years and I really enjoyed it. I made this be
 ## More Complex Basics
 
 Switch Cases, and some random other weird logic stuff that can be important at times
+(I haven't added this stuff quite yet)
 
 ## Putting it all together
 
